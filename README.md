@@ -87,6 +87,6 @@ pip install -r requirements.txt
 
 ## 공개 범위
 
-운영 키, 실제 .env, 내부 회의, 대화, 기획 원문, 영상 제작 자료와 캐시는 제외했습니다. 공개본은 정리한 코드 스냅샷이며 원래 팀의 GitLab 작업 이력을 담지 않습니다. 실행 명령과 이번에 실제 검증한 범위는 [공개 범위와 실행 조건](PUBLIC_SCOPE.md)을 확인하세요.
+운영 키, 실제 .env, 내부 회의, 대화, 기획 원문, 영상 제작 자료와 캐시는 제외했습니다. 공개본은 정리한 코드 스냅샷이며 원래 팀의 GitLab 작업 이력을 담지 않습니다. 실행 명령과 이번에 실제 검증한 범위는 [공개 범위](PUBLIC_SCOPE.md)을 확인하세요.
 
 SUIT 폰트는 [OFL 고지](frontend-vue-main/src/assets/styles/fonts/OFL-SUIT.txt)를 포함합니다. [외부 자료 고지](THIRD_PARTY_NOTICES.md)를 참고하세요.
